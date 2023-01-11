@@ -1,0 +1,21 @@
+.footer {
+  display: flex;
+  padding: 10px;
+  background: linear-gradient(#145b58, #0e3839);
+  justify-content: center;
+}
+.list_item {
+  list-style: none;
+}
+.footer_item_link {
+  display: flex;
+  align-items: center;
+  color: aquamarine;
+  text-decoration: none;
+  gap: 10px;
+}
+.footer_list {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}

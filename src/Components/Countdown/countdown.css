@@ -1,0 +1,61 @@
+.timer_container {
+  position: absolute;
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(#145b58, #0e3839);
+  height: 80px;
+  width: 250px;
+  color: aquamarine;
+  border-radius: 15px;
+  border: 2px solid silver;
+  box-shadow: 0 0 5px 25px;
+  font-size: 1rem;
+}
+.timer {
+  display: flexbox;
+  width: 50px;
+  height: 41px;
+  left: 21px;
+  top: 30px;
+  background-color: aquamarine;
+  box-shadow: inset 0px 4px 4px;
+  color: #145b58;
+  font-family: bold;
+  font-weight: bolder;
+  font-size: 15px;
+  justify-content: center;
+  align-items: right;
+  align-content: center;
+  border-radius: 15px;
+  border: 2px solid silver;
+}
+.expired_notice {
+  text-align: center;
+  padding: 2rem;
+  border: 1px solid #ebebeb;
+  border-radius: 0.25rem;
+  margin: 0.5rem;
+}
+.expired_notice > span {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: red;
+}
+.expired_notice > p {
+  font-size: 1.5rem;
+}
+.timer_container {
+  padding: 0.5rem;
+}
+.timer_container .countdown {
+  line-height: 1.25rem;
+  padding: 0 0.75rem 0 0.75rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.show_counter .countdown.danger {
+  color: #ff0000;
+}

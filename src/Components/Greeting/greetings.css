@@ -1,0 +1,44 @@
+.greetings {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(#145b58, #0e3839);
+  padding: 40px;
+  border-radius: 30px;
+  color: white;
+  width: 500px;
+  /* border: solid; */
+}
+.form * {
+  border-radius: 10px;
+  border: none;
+  padding: 10px 0;
+  margin: 5px 0;
+}
+
+.form_submit {
+  width: 100px;
+  background: white;
+  color: #145b58;
+  align-items: center;
+}
+.form_textarea {
+  color: white;
+}
+.list_title {
+  color: white;
+}
+.output {
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(#145b58, #0e3839);
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  width: 250px;
+}
