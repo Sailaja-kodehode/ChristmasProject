@@ -9,7 +9,7 @@ function Home() {
       <div className="home_container">
         <div className="home_content.grid">
           <div>
-            <img className="home_image" src={Image} alt="pic" />
+            <img className="home_image" src={Image} alt="christmas pic" />
           </div>
           <Data />
         </div>

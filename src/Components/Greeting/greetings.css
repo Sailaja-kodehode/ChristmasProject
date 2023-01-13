@@ -12,7 +12,7 @@
   border-radius: 30px;
   color: white;
   width: 500px;
-  /* border: solid; */
+  border: solid;
 }
 .form * {
   border-radius: 10px;
@@ -26,6 +26,7 @@
   background: white;
   color: #145b58;
   align-items: center;
+  justify-items: center;
 }
 .form_textarea {
   color: white;

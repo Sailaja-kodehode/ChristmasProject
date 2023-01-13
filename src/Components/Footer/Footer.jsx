@@ -9,7 +9,7 @@ function Footer() {
         <li className="list_item">
           <a
             className="footer_item_link"
-            href="https://github.com/Sailaja/portofolio"
+            href="https://github.com/Sailaja-kodehode/ChristmasProject"
             target="_blanc"
           >
             <AiFillGithub />
