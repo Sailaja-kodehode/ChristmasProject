@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChristmasProject/static/css/main.3b147375.css",
+    "main.js": "/ChristmasProject/static/js/main.a03739cd.js",
+    "static/media/img9.jpg": "/ChristmasProject/static/media/img9.5bec6f6b80a36ba7ce1a.jpg",
+    "static/media/img7.jpg": "/ChristmasProject/static/media/img7.8ebdcf62e30f9a85a3d3.jpg",
+    "static/media/img16.jpg": "/ChristmasProject/static/media/img16.631ce51be5263e234833.jpg",
+    "static/media/img8.jpg": "/ChristmasProject/static/media/img8.8f647d1c708bb699d743.jpg",
+    "static/media/img1.jpg": "/ChristmasProject/static/media/img1.f6a3094e5d4dd8f1f60f.jpg",
+    "static/media/img6.jpg": "/ChristmasProject/static/media/img6.4448bf0e6d94d508b4c6.jpg",
+    "static/media/img3.jpg": "/ChristmasProject/static/media/img3.3daa7b8933d45e606ac8.jpg",
+    "static/media/img4.jpg": "/ChristmasProject/static/media/img4.42b6b551f67a88c1b611.jpg",
+    "static/media/img5.jpg": "/ChristmasProject/static/media/img5.71358f9003f6d9e7ae03.jpg",
+    "static/media/img2.jpg": "/ChristmasProject/static/media/img2.a1a8b8f610228cbda9dc.jpg",
+    "index.html": "/ChristmasProject/index.html",
+    "main.3b147375.css.map": "/ChristmasProject/static/css/main.3b147375.css.map",
+    "main.a03739cd.js.map": "/ChristmasProject/static/js/main.a03739cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b147375.css",
+    "static/js/main.a03739cd.js"
+  ]
+}
